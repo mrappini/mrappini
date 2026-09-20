@@ -37,7 +37,7 @@ Some of the projects I've contributed to include **Jano**, focused on technical 
 
 ### 🅿️ Lota
 
-**Crowdsourced mobility platform for PUC-Rio.**
+**Crowdsourced campus mobility platform for PUC-Rio.**
 
 Lota helps the university community check occupancy before heading to places such as parking lots, bike racks and campus services.
 
@@ -59,13 +59,32 @@ A project inspired by the idea of bringing the social discovery experience of pl
 
 ### 🚌 Oniboxd
 
-**A new way to explore Rio de Janeiro's bus network.**
+**Exploring Rio de Janeiro's bus network through data.**
 
 A project built around Rio's public transport data, using **GTFS** to turn bus lines and mobility data into a more accessible and engaging experience.
 
 `Python` `GTFS` `Data` `Web`
 
 <br>
+
+---
+
+### 🛢️ Projects for Petrobras
+
+Through **ECOA PUC-Rio**, I've worked on technology projects addressing real-world needs and challenges from Petrobras.
+
+#### 🧠 Jano
+
+A project focused on **technical knowledge and organizational memory**.
+
+#### 💡 Alia
+
+A project designed to **support processes related to intellectual property**.
+
+`Innovation` `AI` `Product` `UI/UX`
+
+<br>
+
 
 ## 🛠️ Tech
 
