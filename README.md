@@ -18,22 +18,22 @@
 
 I'm a **Computer Science student at PUC-Rio**, based in Rio de Janeiro, Brazil, interested in building useful products at the intersection of **software, product and design**.
 
-I enjoy taking ideas from the first sketch to something people can actually use — understanding the problem, designing the experience and building the software behind it.
+I enjoy taking ideas from the first sketch to something people can actually use — understanding the need, designing the experience and building the software behind it.
 
-Currently, I work on innovation projects at **ECOA PUC-Rio**, developing technology solutions for real-world challenges proposed by **Petrobras**.
+Through **Ignição Petrobras**, an innovation program by Petrobras and **ECOA PUC-Rio**, I develop technology solutions for real needs of the energy industry.
 
 * 🎓 Computer Science @ PUC-Rio
 * 💻 Building with **Python, C, JavaScript and SQL**
 * 🧩 Interested in **software engineering, backend and product development**
 * 🎨 Interested in **UI/UX, usability and visual design**
 * 🧠 Exploring **databases, systems and low-level programming**
-* 🚀 I like turning real-world problems into working products
+* 🚀 I like turning real-world needs into working products
 
 <br>
 
 ## ⚡ Currently
 
-* 🔨 **Working on:** [Jano](#-jano) (Petrobras challenge at ECOA PUC-Rio) and **Oniboxd**
+* 🔨 **Working on:** [Jano](#-jano) (Ignição Petrobras) and **Oniboxd**
 * 📚 **Learning:** Assembly and PostgreSQL
 
 <br>
@@ -74,17 +74,17 @@ A project built around Rio's public transport data, using **GTFS** to make bus l
 
 ---
 
-### 🛢️ Projects for Petrobras
+### 🛢️ Ignição Petrobras
 
-Through **ECOA PUC-Rio**, I've worked on technology projects developed for challenges proposed by Petrobras.
+Ignição is an innovation program by **Petrobras** and **ECOA PUC-Rio** that brings students together to build technology solutions for real needs of the industry. I developed projects for Petrobras' needs in two areas:
 
 #### 🧠 Jano
 
-An innovation project developed for a Petrobras challenge, currently in progress.
+Built around **technical knowledge and organizational memory**, helping make what teams know easier to preserve, find and reuse.
 
 #### 💡 Alia
 
-An innovation project developed for a Petrobras challenge.
+Built to **support processes in the intellectual property area**, making that workflow more organized and accessible.
 
 `Innovation` `AI` `Product` `UI/UX`
 
