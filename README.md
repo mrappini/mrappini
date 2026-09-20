@@ -1,74 +1,76 @@
-<h1 align="left">Hey 👋 What's up? I´m Mario Rappini.</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mario%20Rappini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%40%20PUC-Rio&descSize=20&descAlignY=58" width="100%" />
 
-###
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Hey+%F0%9F%91%8B+What's+up%3F;Backend+%2B+Frontend+%2B+Design;Turning+ideas+into+digital+experiences;Always+curious%2C+always+learning" alt="Typing SVG" />
+  </a>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=mrappini&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/PUC--Rio-Computer%20Science-6272a4?style=for-the-badge" alt="PUC-Rio" />
+  <img src="https://img.shields.io/badge/Based%20in-Rio%20de%20Janeiro-ff79c6?style=for-the-badge" alt="Rio de Janeiro" />
 </div>
 
-###
+<br>
 
-<h2 align="left">About me</h2>
+## 👨‍💻 About me
 
-###
+I'm a **Computer Science student at PUC-Rio**, passionate about technology, design, and innovation.
 
-<p align="left">I'm a Computer Science student at PUC-Rio, passionate about technology, design, and innovation.<br>  <br>I love creating digital experiences that combine functionality and aesthetics — from backend logic to user interfaces.  <br><br>Always curious, always learning — I’m constantly improving my skills and exploring new technologies.</p>
+I love creating digital experiences that combine **functionality and aesthetics**, from backend logic to polished user interfaces.
 
-###
+Always curious, always learning. I'm constantly improving my skills and exploring new technologies.
 
-<h2 align="left">I currently code with:</h2>
+- 🎓 Studying Computer Science @ PUC-Rio
+- 🔭 Currently exploring backend, web development, and UI design
+- 🌱 Learning something new every week
+- 💬 Ask me about Python, Flask, C, or Linux
+- ⚡ Fun fact: I like things that work well *and* look good
 
-###
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />   
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h2 align="left">Connect with me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mariorappini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:mariomendesrappini@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://discord.com/users/459358876245164035" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-</div>
-
-###
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrappini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrappini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,lua,flask,postgres,linux,git&perline=10" alt="tech stack" />
 </div>
 
-###
+<br>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrappini&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=12" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrappini&layout=compact&langs_count=6&card_width=320&theme=dracula&hide_border=true&border_radius=12" height="165" alt="top languages" />
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mrappini&theme=dracula&hide_border=true&border_radius=12" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrappini&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+</div>
+
+<br>
+
+## 🤝 Let's connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mariorappini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mariomendesrappini@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/459358876245164035" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=true" width="100%" />
+</div>
