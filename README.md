@@ -16,11 +16,13 @@
 
 ## 👨‍💻 About me
 
-I'm a **Computer Science student at PUC-Rio** interested in building useful products at the intersection of **software, product and design**.
+I'm a **Computer Science student at PUC-Rio**, based in Rio de Janeiro, Brazil, interested in building useful products at the intersection of **software, product and design**.
 
-I enjoy taking ideas from the first sketch to something people can actually use — thinking about the problem, designing the experience and building the software behind it.
+I enjoy taking ideas from the first sketch to something people can actually use — understanding the problem, designing the experience and building the software behind it.
 
-Currently, I work on innovation projects at **ECOA PUC-Rio**, where I've been involved in technology initiatives developed in the context of the **Ignição Petrobras** program.
+Currently, I work on innovation projects at **ECOA PUC-Rio**, developing technology solutions around real-world needs and challenges from **Petrobras**.
+
+Some of the projects I've contributed to include **Jano**, focused on technical knowledge and organizational memory, and **Alia**, designed to support processes related to intellectual property.
 
 * 🎓 Computer Science @ PUC-Rio
 * 💻 Building with **Python, C, JavaScript and SQL**
@@ -62,16 +64,6 @@ A project inspired by the idea of bringing the social discovery experience of pl
 A project built around Rio's public transport data, using **GTFS** to turn bus lines and mobility data into a more accessible and engaging experience.
 
 `Python` `GTFS` `Data` `Web`
-
-<br>
-
-### 🧠 Jano
-
-**AI-assisted knowledge experience for research environments.**
-
-Developed during my work at **ECOA PUC-Rio** in the context of the Ignição Petrobras program, exploring how AI can help organize knowledge, accelerate onboarding and reduce duplicated work in technical environments.
-
-`AI` `Product` `UI/UX` `Innovation`
 
 <br>
 
