@@ -7,9 +7,10 @@
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=mrappini&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/PUC--Rio-Computer%20Science-6272a4?style=for-the-badge" alt="PUC-Rio" />
-  <img src="https://img.shields.io/badge/Based%20in-Rio%20de%20Janeiro-ff79c6?style=for-the-badge" alt="Rio de Janeiro" />
+  <img src="https://img.shields.io/badge/Coding%20since-2024-ff79c6?style=for-the-badge" alt="Coding since 2024" />
+  <img src="https://img.shields.io/github/followers/mrappini?style=for-the-badge&logo=github&color=bd93f9&labelColor=282a36" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=mrappini&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="profile views" />
 </div>
 
 <br>
@@ -20,12 +21,11 @@ I'm a **Computer Science student at PUC-Rio**, passionate about technology, desi
 
 I love creating digital experiences that combine **functionality and aesthetics**, from backend logic to polished user interfaces.
 
-Always curious, always learning. I'm constantly improving my skills and exploring new technologies.
-
-- 🎓 Studying Computer Science @ PUC-Rio
-- 🔭 Currently exploring backend, web development, and UI design
+- 🎓 Computer Science @ PUC-Rio
+- 🔭 Exploring backend (Flask + PostgreSQL), web development and UI design
+- 🧠 Low-level curious: C, Linux and Lua on the side
 - 🌱 Learning something new every week
-- 💬 Ask me about Python, Flask, C, or Linux
+- 💬 Ask me about Python, Flask, C or Linux
 - ⚡ Fun fact: I like things that work well *and* look good
 
 <br>
@@ -33,24 +33,51 @@ Always curious, always learning. I'm constantly improving my skills and explorin
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,lua,flask,postgres,linux,git&perline=10" alt="tech stack" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,c,js,lua,html,css&perline=6" alt="languages" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=flask,postgres&perline=6" alt="backend" />
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&perline=6" alt="tools" />
+
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrappini&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=12" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrappini&layout=compact&langs_count=6&card_width=320&theme=dracula&hide_border=true&border_radius=12" height="165" alt="top languages" />
-</div>
+<!-- Fixe seus melhores repos no perfil (Customize your pins) e/ou descreva aqui -->
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔹 **Project name** | One line about what it does | `Python` `Flask` `PostgreSQL` |
+| 🔹 **Project name** | One line about what it does | `C` |
+| 🔹 **Project name** | One line about what it does | `HTML` `CSS` `JS` |
+
+<br>
+
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mrappini&theme=dracula&hide_border=true&border_radius=12" alt="streak" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrappini&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/mrappini/mrappini/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mrappini/mrappini/main/metrics.languages.svg" alt="top languages" />
 </div>
 
 <br>
