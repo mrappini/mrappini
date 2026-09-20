@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mario Giuseppe %20Rappini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%40%20PUC-Rio&descSize=20&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mario%20Rappini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%40%20PUC-Rio&descSize=20&descAlignY=58" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Computer+Science+%40+PUC-Rio;Building+products+from+idea+to+interface;Software+%2B+Product+%2B+Design;Always+curious%2C+always+building" alt="Typing SVG" />
