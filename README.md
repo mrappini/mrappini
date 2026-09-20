@@ -20,16 +20,21 @@ I'm a **Computer Science student at PUC-Rio**, based in Rio de Janeiro, Brazil, 
 
 I enjoy taking ideas from the first sketch to something people can actually use — understanding the problem, designing the experience and building the software behind it.
 
-Currently, I work on innovation projects at **ECOA PUC-Rio**, developing technology solutions around real-world needs and challenges from **Petrobras**.
-
-Some of the projects I've contributed to include **Jano**, focused on technical knowledge and organizational memory, and **Alia**, designed to support processes related to intellectual property.
+Currently, I work on innovation projects at **ECOA PUC-Rio**, developing technology solutions for real-world challenges proposed by **Petrobras**.
 
 * 🎓 Computer Science @ PUC-Rio
 * 💻 Building with **Python, C, JavaScript and SQL**
 * 🧩 Interested in **software engineering, backend and product development**
-* 🎨 I care about **UI/UX and visual identity** as much as implementation
+* 🎨 Interested in **UI/UX, usability and visual design**
 * 🧠 Exploring **databases, systems and low-level programming**
-* 🚀 I like turning real-world problems into products
+* 🚀 I like turning real-world problems into working products
+
+<br>
+
+## ⚡ Currently
+
+* 🔨 **Working on:** [Jano](#-jano) (Petrobras challenge at ECOA PUC-Rio) and **Oniboxd**
+* 📚 **Learning:** Assembly and PostgreSQL
 
 <br>
 
@@ -39,7 +44,7 @@ Some of the projects I've contributed to include **Jano**, focused on technical 
 
 **Crowdsourced campus mobility platform for PUC-Rio.**
 
-Lota helps the university community check occupancy before heading to places such as parking lots, bike racks and campus services.
+Lota helps the university community check occupancy before heading to places such as parking lots, bike racks and other campus facilities.
 
 > **Antes de ir, Lota.**
 
@@ -49,9 +54,9 @@ Lota helps the university community check occupancy before heading to places suc
 
 ### 🎵 eko
 
-**A social music discovery and review platform.**
+**A social platform for music discovery and reviews.**
 
-A project inspired by the idea of bringing the social discovery experience of platforms like Letterboxd to music — allowing users to explore, organize and interact around albums and artists.
+Built around the idea of bringing a Letterboxd-like social experience to music, allowing users to discover and interact around albums and artists.
 
 `Python` `Flask` `Spotify API` `HTML` `CSS`
 
@@ -61,7 +66,7 @@ A project inspired by the idea of bringing the social discovery experience of pl
 
 **Exploring Rio de Janeiro's bus network through data.**
 
-A project built around Rio's public transport data, using **GTFS** to turn bus lines and mobility data into a more accessible and engaging experience.
+A project built around Rio's public transport data, using **GTFS** to make bus lines and mobility data more accessible and engaging.
 
 `Python` `GTFS` `Data` `Web`
 
@@ -71,20 +76,19 @@ A project built around Rio's public transport data, using **GTFS** to turn bus l
 
 ### 🛢️ Projects for Petrobras
 
-Through **ECOA PUC-Rio**, I've worked on technology projects addressing real-world needs and challenges from Petrobras.
+Through **ECOA PUC-Rio**, I've worked on technology projects developed for challenges proposed by Petrobras.
 
 #### 🧠 Jano
 
-A project focused on **technical knowledge and organizational memory**.
+An innovation project developed for a Petrobras challenge, currently in progress.
 
 #### 💡 Alia
 
-A project designed to **support processes related to intellectual property**.
+An innovation project developed for a Petrobras challenge.
 
 `Innovation` `AI` `Product` `UI/UX`
 
 <br>
-
 
 ## 🛠️ Tech
 
@@ -92,29 +96,15 @@ A project designed to **support processes related to intellectual property**.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=py,c,js,lua,html,css&perline=6" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,c,js,html,css&perline=5" alt="Python, C, JavaScript, HTML and CSS" />
 
 ### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=flask,postgres,supabase&perline=6" alt="Backend and Data" />
+<img src="https://skillicons.dev/icons?i=flask,postgres,supabase&perline=6" alt="Flask, PostgreSQL and Supabase" />
 
-### Tools
+### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=6" alt="Tools" />
-
-</div>
-
-<br>
-
-## 📊 GitHub
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrappini&show_icons=true&theme=dracula&hide_border=true&border_radius=12" alt="Mario's GitHub stats" />
-
-<br><br>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrappini&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=6" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=6" alt="Git, GitHub, Linux and VS Code" />
 
 </div>
 
